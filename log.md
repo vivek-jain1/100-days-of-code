@@ -11,8 +11,10 @@
 
 ### Day 1: September 1st, 2018
 
-**Today's Progress**: Went through 11 videos of the Datacamp:Python playlist and solve 5 hackerrank problems on Python.
-                      Completed 1st week of ML by Andrew Ng
+**Today's Progress**: Completed 1st week of ML by Andrew Ng
+                      Went through 11 videos of the Datacamp:Python playlist 
+                      Solved 10 hackerrank problems on Python.
+                      Completed third video of Siraj's playlist (Movie recommender)
 
 **Thoughts:** Really liked Andrew's style of teaching. Gave me a real good understanding of Linear Regression in one variable.
 

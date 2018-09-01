@@ -7,14 +7,20 @@
 **Thoughts:** Looking at the trello board is a bit overwhelming but also motivating at the same time. Siraj's energy has alleviated my interest.
 
 **Links to work:** [Github Repo] (https://github.com/vivek-jain1/PythonForDS-Siraj)
-                   [Trello board] (https://trello.com/b/jKv7dLY8)              
+                   [Trello board] (https://trello.com/b/jKv7dLY8)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 1st, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Went through 11 videos of the Datacamp:Python playlist and solve 5 hackerrank problems on Python.
+                      Completed 1st week of ML by Andrew Ng
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really liked Andrew's style of teaching. Gave me a real good understanding of Linear Regression in one variable.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Links to work:** [Github Repo] (https://github.com/vivek-jain1/PythonForDS-Siraj)
+                   [Trello board] (https://trello.com/b/jKv7dLY8)
+                   [Hackerrank problems] (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
+
+
+
+
 

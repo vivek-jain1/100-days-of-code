@@ -22,7 +22,20 @@
                    [Trello board] (https://trello.com/b/jKv7dLY8)
                    [Hackerrank problems] (https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
 
+**Links to work:** [Github Repo] (https://github.com/vivek-jain1/PythonForDS-Siraj)
+                   [Trello board] (https://trello.com/b/jKv7dLY8)
 
+### Day 2: September 2nd, 2018
+
+**Today's Progress**: Completed 2nd week of ML by Andrew Ng with assignment
+                      Finished 20 mins of Python crash course on youtube
+                      Solved 5 more hackerrank problems on Python.
+                       
+                      
+**Thoughts:** Owing to a decent mathematics background that I have, the topics seemed easy enough. It was good to see some practial use of derivatives.Need to check the derivation of Normal equation. Implementing these exercises in python could be fun
+
+**Links to work:** [Github Repo for my Octave solutions to Andrew Ng's course] (https://github.com/vivek- jain1/ML_Andrew_Ng_Octave)
+                   [Trello Board] (https://trello.com/b/jKv7dLY8)
 
 
 

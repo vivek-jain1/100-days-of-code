@@ -36,6 +36,18 @@
 
 **Links to work:** [Github Repo for my Octave solutions to Andrew Ng's course] (https://github.com/vivek- jain1/ML_Andrew_Ng_Octave)
                    [Trello Board] (https://trello.com/b/jKv7dLY8)
+                   
+ ### Day 3: September 3rd, 2018
+
+**Today's Progress**: Completed 3rd week theory of ML by Andrew Ng 
+                      Finished Python crash course on youtube
+                      Solved 5 more hackerrank problems on Python.
+                       
+                      
+**Thoughts:** Need to check regularisation again
+
+**Links to work:** [Github Repo for my Octave solutions to Andrew Ng's course] (https://github.com/vivek- jain1/ML_Andrew_Ng_Octave)
+                   [Trello Board] (https://trello.com/b/jKv7dLY8
 
 
 

@@ -48,6 +48,21 @@
 
 **Links to work:** [Github Repo for my Octave solutions to Andrew Ng's course] (https://github.com/vivek- jain1/ML_Andrew_Ng_Octave)
                    [Trello Board] (https://trello.com/b/jKv7dLY8
+                   [Python Crash course] (https://www.youtube.com/watch?v=oy4GOI9vn5M&t=169s)
+                   
+                   
+ ### Day 4: September 4th, 2018
+
+**Today's Progress**: Completed 3rd week assignment of ML by Andrew Ng 
+                      Finished Python numpy on youtube
+                      Solved 5 more hackerrank problems on Python.
+                       
+                      
+**Thoughts:** This week's assignment felt a little tough. Probably because, I didn't wan't to use for loops for solving the problems. Got confused a little but dug through. I am going faster than I expected. Can't wait to start the Neural networks lecture.
+
+**Links to work:** [Github Repo for my Octave solutions to Andrew Ng's course] (https://github.com/vivek- jain1/ML_Andrew_Ng_Octave)
+                   [Trello Board] (https://trello.com/b/jKv7dLY8
+                   [Python numpy tutorial] (https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 
 
 
